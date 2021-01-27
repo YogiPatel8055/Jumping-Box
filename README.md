@@ -1,1 +1,2 @@
-# Jumping-Box
+# JumpingBox
+Jumping box
